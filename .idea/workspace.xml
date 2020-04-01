@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d14b78b9-c84b-454f-a948-1c7d07c8b39c" name="Default Changelist" comment="Init" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Azhar" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../RAF-SCANNER" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwRkVzP9mWnpJ2jdVelbIXAEQt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RAF-SCANNER" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Azhar\IdeaProjects\rafScanner\src\test\java\com\h3xstream\findbugs\test" />
+      <recent name="C:\Users\Azhar\IdeaProjects\rafScanner\src\test\java\com\h3xstream\findbugs\test\service" />
+      <recent name="C:\Users\Azhar\IdeaProjects\rafScanner\src\test\java\com\h3xstream\findbugs\test\matcher" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.h3xstream.findbugs.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.XmlDecodeUtil">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RAF-SCANNER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlDecodeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XmlDecodeUtil" />
+      <module name="RAF-SCANNER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="RAF-SCANNER" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="RAF-SCANNER" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XmlDecodeUtil" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14b78b9-c84b-454f-a948-1c7d07c8b39c" name="Default Changelist" comment="" />
+      <created>1585748312956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585748312956</updated>
+      <workItem from="1585748314290" duration="11266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="45" key="#Project_Structure" timestamp="1585749975963">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1585749975963" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585761540846">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585761540846" />
+    <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1585757600934">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585757600934" />
+    <state x="509" y="301" key="Github.CreateGistDialog" timestamp="1585759204483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="509" y="301" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1585759204483" />
+    <state x="473" y="263" key="Github.CreatePullRequestDialog" timestamp="1585759223531">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="473" y="263" key="Github.CreatePullRequestDialog/0.0.1366.768@0.0.1366.768" timestamp="1585759223531" />
+    <state x="552" y="282" key="Github.ShareDialog" timestamp="1585757933882">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="552" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1585757933882" />
+    <state x="484" y="92" key="Github.UntrackedFilesDialog" timestamp="1585757941682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="92" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1585757941682" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1585751067832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585751067832" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1585751067832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585751067832" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1585751067832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585751067832" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1585751067832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585751067832" />
+    <state x="355" y="17" key="Maven.ArtifactSearchDialog" timestamp="1585755837300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="355" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1585755837300" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1585754461425">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585754461425" />
+    <state x="499" y="165" key="chooseDestDirectoryDialog" timestamp="1585755430461">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="165" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1585755430461" />
+    <state x="494" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585759174956">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="494" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1585759174956" />
+  </component>
+</project>
